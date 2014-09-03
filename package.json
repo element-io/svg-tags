@@ -1,7 +1,7 @@
 {
   "name": "svg-tags",
   "version": "0.0.0",
-  "description": "List of SVG tags.",
+  "description": "List of standard SVG tags.",
   "author": {
     "name": "Athan Reines",
     "email": "kgryte@gmail.com"

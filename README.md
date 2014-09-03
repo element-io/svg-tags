@@ -2,7 +2,7 @@ SVG Tags
 ========
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage][coveralls-image]][coveralls-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> List of SVG tags.
+> List of standard SVG tags.
 
 List built from the [SVG 1.1 specification](http://www.w3.org/TR/SVG/eltindex.html).
 
